@@ -6,3 +6,5 @@ threading and interprocess communication to execute shell commands. Some feature
 and file redirection. 
 
 Tools Used: C, Make
+
+![](images/Picture1.png)
